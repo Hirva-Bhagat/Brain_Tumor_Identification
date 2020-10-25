@@ -21,3 +21,4 @@ A simple GUI using tkinter displays the results of trained network on image data
 ```python
 python gui.py
 ```
+![alt text](https://github.com/Hirva-Bhagat/Brain_Tumor_Identification/edit/main/results/1.png?raw=true)
