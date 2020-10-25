@@ -30,7 +30,7 @@ python gui.py
 ### Step 4
 ![Step 4](https://github.com/Hirva-Bhagat/Brain_Tumor_Identification/blob/main/Results/4.PNG?raw=true)
 ### Step 5
-![Step 5](https://github.com/Hirva-Bhagat/Brain_Tumor_Identification/blob/main/Results/5.PNG?raw=true)
+![Step 5](https://github.com/Hirva-Bhagat/Brain_Tumor_Identification/blob/main/Results/5.png?raw=true)
 ### Step 6
 ![Step 6](https://github.com/Hirva-Bhagat/Brain_Tumor_Identification/blob/main/Results/6.PNG?raw=true)
 
