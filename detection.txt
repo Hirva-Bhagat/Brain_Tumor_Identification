@@ -1,0 +1,90 @@
+1 no.jpeg----->No Tumor Detected
+10 no.jpg----->No Tumor Detected
+11 no.jpg----->No Tumor Detected
+12 no.jpg----->No Tumor Detected
+13 no.jpg----->No Tumor Detected
+14 no.jpg----->No Tumor Detected
+15 no.jpg----->No Tumor Detected
+17 no.jpg----->No Tumor Detected
+18 no.jpg----->No Tumor Detected
+19 no.jpg----->No Tumor Detected
+2 no.jpeg----->No Tumor Detected
+20 no.jpg----->No Tumor Detected
+21 no.jpg----->No Tumor Detected
+22 no.jpg----->No Tumor Detected
+23 no.jpg----->No Tumor Detected
+24 no.jpg----->No Tumor Detected
+25 no.jpg----->No Tumor Detected
+26 no.jpg----->No Tumor Detected
+27 no.jpg----->No Tumor Detected
+28 no.jpg----->No Tumor Detected
+29 no.jpg----->No Tumor Detected
+3 no.jpg----->No Tumor Detected
+30 no.jpg----->No Tumor Detected
+31 no.jpg----->No Tumor Detected
+32 no.jpg----->No Tumor Detected
+33 no.jpg----->No Tumor Detected
+34 no.jpg----->No Tumor Detected
+35 no.jpg----->Tumor Detected
+36 no.jpg----->No Tumor Detected
+37 no.jpg----->No Tumor Detected
+38 no.jpg----->No Tumor Detected
+39 no.jpg----->No Tumor Detected
+4 no.jpg----->No Tumor Detected
+40 no.jpg----->No Tumor Detected
+41 no.jpg----->No Tumor Detected
+42 no.jpg----->No Tumor Detected
+43 no.jpg----->No Tumor Detected
+44no.jpg----->No Tumor Detected
+45 no.jpg----->No Tumor Detected
+46 no.jpg----->No Tumor Detected
+47 no.jpg----->No Tumor Detected
+48 no.jpeg----->No Tumor Detected
+49 no.jpg----->No Tumor Detected
+5 no.jpg----->No Tumor Detected
+50 no.jpg----->No Tumor Detected
+6 no.jpg----->No Tumor Detected
+7 no.jpg----->No Tumor Detected
+8 no.jpg----->No Tumor Detected
+9 no.jpg----->No Tumor Detected
+N1.JPG----->No Tumor Detected
+Y1.jpg----->Tumor Detected
+Y10.jpg----->Tumor Detected
+Y11.jpg----->Tumor Detected
+Y12.jpg----->Tumor Detected
+Y13.jpg----->Tumor Detected
+Y14.jpg----->Tumor Detected
+Y15.jpg----->Tumor Detected
+Y16.JPG----->No Tumor Detected
+Y17.jpg----->Tumor Detected
+Y18.JPG----->Tumor Detected
+Y19.JPG----->Tumor Detected
+Y2.jpg----->Tumor Detected
+Y20.jpg----->Tumor Detected
+Y21.jpg----->Tumor Detected
+Y22.jpg----->Tumor Detected
+Y23.JPG----->Tumor Detected
+Y24.jpg----->No Tumor Detected
+Y25.jpg----->Tumor Detected
+Y26.jpg----->No Tumor Detected
+Y27.jpg----->Tumor Detected
+Y28.jpg----->Tumor Detected
+Y29.jpg----->Tumor Detected
+Y3.jpg----->Tumor Detected
+Y30.jpg----->Tumor Detected
+Y31.jpg----->Tumor Detected
+Y32.jpg----->No Tumor Detected
+Y33.jpg----->Tumor Detected
+Y34.jpg----->Tumor Detected
+Y35.jpg----->Tumor Detected
+Y36.JPG----->Tumor Detected
+Y37.jpg----->Tumor Detected
+Y38.jpg----->Tumor Detected
+Y39.jpg----->No Tumor Detected
+Y4.jpg----->Tumor Detected
+Y40.JPG----->Tumor Detected
+Y41.jpg----->Tumor Detected
+Y6.jpg----->No Tumor Detected
+Y7.jpg----->No Tumor Detected
+Y8.jpg----->Tumor Detected
+Y9.jpg----->Tumor Detected
